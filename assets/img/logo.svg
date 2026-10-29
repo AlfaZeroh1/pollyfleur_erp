@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+  <g transform="translate(12 12)">
+  <defs>
+    <linearGradient id="pf-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF7FB"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <linearGradient id="pf-petal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F9A8D4"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="pf-stem" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22A35A"/><stop offset="1" stop-color="#166534"/></linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="24" fill="url(#pf-bg)"/>
+  <path d="M30 76 C 18 74, 14 64, 16 56 C 25 57, 31 64, 30 76 Z" fill="#22A35A"/>
+  <path d="M30 76 C 24 70, 20 64, 17.5 58" fill="none" stroke="#166534" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+  <rect x="29.5" y="30" width="9" height="58" rx="4.5" fill="url(#pf-stem)"/>
+  <g transform="translate(0 0)">
+    <g transform="rotate(0 58 40)"><ellipse cx="58" cy="25.5" rx="8.2" ry="12" fill="url(#pf-petal)"/></g>
+    <g transform="rotate(72 58 40)"><ellipse cx="58" cy="25.5" rx="8.2" ry="12" fill="url(#pf-petal)"/></g>
+    <g transform="rotate(144 58 40)"><ellipse cx="58" cy="25.5" rx="8.2" ry="12" fill="url(#pf-petal)"/></g>
+    <g transform="rotate(216 58 40)"><ellipse cx="58" cy="25.5" rx="8.2" ry="12" fill="url(#pf-petal)"/></g>
+    <g transform="rotate(288 58 40)"><ellipse cx="58" cy="25.5" rx="8.2" ry="12" fill="url(#pf-petal)"/></g>
+  </g>
+  <circle cx="58" cy="40" r="6.5" fill="#FFF7FB"/>
+  <circle cx="58" cy="40" r="3.6" fill="#BE185D"/>
+  </g>
+  <text x="124" y="70" font-family="'Avenir Next', 'Nunito', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="-0.5"><tspan fill="#166534">polly</tspan><tspan fill="#DB2777">fleur</tspan></text>
+  <text x="127" y="94" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="4.6" fill="#15803D">FRESH CUT FLOWERS · EST. 2017</text>
+</svg>
